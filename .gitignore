@@ -1,0 +1,4 @@
+spec/huginn
+.env
+Gemfile.lock
+.idea
